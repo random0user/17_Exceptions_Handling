@@ -1,0 +1,4 @@
+﻿  Exceptions.cpp
+c:\users\andrey\source\repos\exceptions\exceptions\exceptions.cpp(71): warning C4101: i: неиспользованная локальная переменная
+  Exceptions.vcxproj -> C:\Users\Andrey\source\repos\Exceptions\Debug\Exceptions.exe
+  Exceptions.vcxproj -> C:\Users\Andrey\source\repos\Exceptions\Debug\Exceptions.pdb (Partial PDB)
